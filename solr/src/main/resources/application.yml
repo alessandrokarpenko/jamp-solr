@@ -1,0 +1,6 @@
+books:
+  dir: solr/src/main/resources/books
+
+solr:
+  url: http://localhost:8983/solr
+  collection: books
